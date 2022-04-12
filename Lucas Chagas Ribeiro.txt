@@ -1,0 +1,13 @@
+Funcionario   |Lucas Chagas Ribeiro
+Setor         |Exemplo
+Cargo         |Exemplo
+Ramal         |Exemplo
+Telefone      |Exemplo
+E-mail        |Exemplo
+End           |Exemplo
+Cep           |Exemplo
+RG            |Exemplo
+CPF           |Exemplo
+PIS           |Exemplo
+Linkedin      |Exemplo
+Escolaridade  |Exemplo
